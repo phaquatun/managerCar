@@ -1,0 +1,3 @@
+Model\Admin\Admin.class
+Model\SetUpServer\SetUpServer.class
+Model\SetUpServer\DeployServer.class
